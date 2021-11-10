@@ -1,0 +1,25 @@
+{
+  "name": "json-server-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenCongTien194382/json-server-music.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NguyenCongTien194382/json-server-music/issues"
+  },
+  "homepage": "https://github.com/NguyenCongTien194382/json-server-music#readme",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0",
+    "query-string": "^7.0.1"
+  }
+}
